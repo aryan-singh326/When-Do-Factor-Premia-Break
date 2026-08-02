@@ -1,0 +1,14 @@
+Figure,Filename,Purpose
+1,figure_01_research_design,Research sequence and safeguards
+2,figure_02_collapse_timeline,Objective collapse events over time
+3,figure_03_momentum_development,Development warning and collapse
+4,figure_04_factor_recall,Factor recall with uncertainty
+5,figure_05_precision_recall,Factor-level precision and recall
+6,figure_06_lead_time_distribution,Lead-time distribution
+7,figure_07_null_recall,Recall versus temporal null
+8,figure_08_null_precision,Precision versus temporal null
+9,figure_09_horizon_sensitivity,Evaluation-horizon sensitivity
+10,figure_10_vix_baseline_comparison,Kurtosis versus VIX
+11,figure_11_detector_overlap,Complementarity with VIX
+12,figure_12_recall_sensitivity,Recall parameter sensitivity
+13,figure_13_precision_sensitivity,Precision parameter sensitivity
