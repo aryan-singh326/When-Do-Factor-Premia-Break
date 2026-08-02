@@ -1,0 +1,8 @@
+{
+  "collapse_z_threshold": -2.0,
+  "minimum_consecutive_days": 5,
+  "reference_shift_days": 1,
+  "reference_window": 1260,
+  "sharpe_window": 252,
+  "trading_days_per_year": 252
+}

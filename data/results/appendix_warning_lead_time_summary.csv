@@ -1,0 +1,5 @@
+appendix_classification,count,mean,median,minimum,maximum
+true_positive,42,66.78571428571429,66.0,6.0,125.0
+duplicate_in_horizon,10,27.0,22.0,7.0,70.0
+extended_early_warning,23,185.95652173913044,173.0,131.0,251.0
+too_early_to_attribute,377,1263.7480106100795,1047.0,257.0,4821.0

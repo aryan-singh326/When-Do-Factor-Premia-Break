@@ -1,0 +1,3 @@
+detector,collapse_events,detected_events,warning_events,recall,precision,false_positive_rate,median_lead_time_days,common_sample_start,common_sample_end
+frozen_excess_kurtosis,55,31,298,0.5636363636363636,0.1040268456375839,0.8959731543624161,83.0,1990-12-31,2026-05-29
+vix_level_zscore,55,35,540,0.6363636363636364,0.06481481481481481,0.9351851851851852,103.0,1990-12-31,2026-05-29

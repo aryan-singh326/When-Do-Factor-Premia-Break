@@ -1,0 +1,10 @@
+diagnostic,threshold,detected,first_qualifying_warning,lead_time_days,qualifying_warning_count,earlier_false_positive_count,total_warning_events,selection_score
+skewness,1.5,False,,,0,74,75,-inf
+skewness,2.0,False,,,0,49,50,-inf
+skewness,2.5,False,,,0,29,30,-inf
+excess_kurtosis,1.5,True,2009-07-30,48.0,2,76,80,-6.21904761904762
+excess_kurtosis,2.0,True,2009-09-17,14.0,1,67,71,-5.588888888888889
+excess_kurtosis,2.5,False,,,0,60,62,-inf
+squared_return_acf,1.5,False,,,0,91,92,-inf
+squared_return_acf,2.0,False,,,0,66,67,-inf
+squared_return_acf,2.5,False,,,0,49,50,-inf

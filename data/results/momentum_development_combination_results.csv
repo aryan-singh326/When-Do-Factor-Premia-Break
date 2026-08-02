@@ -1,0 +1,4 @@
+rule,threshold,detected,first_qualifying_warning,lead_time_days,earlier_false_positive_count,total_warning_events
+at_least_2_of_3,1.5,False,,,68,69
+at_least_2_of_3,2.0,False,,,48,49
+at_least_2_of_3,2.5,False,,,30,31

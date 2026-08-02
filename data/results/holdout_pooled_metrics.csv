@@ -1,0 +1,2 @@
+holdout_collapse_events,detected_events,missed_events,warning_events,true_positive_warnings,false_positive_warnings,precision,recall,detection_rate,false_positive_rate,median_lead_time_days,mean_lead_time_days
+86,42,44,536,42,494,0.07835820895522388,0.4883720930232558,0.4883720930232558,0.9216417910447762,66.0,66.78571428571429

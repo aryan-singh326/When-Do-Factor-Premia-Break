@@ -1,0 +1,25 @@
+{
+  "causal_standardization": true,
+  "combination_requirement": null,
+  "development_collapse_start": "2009-10-07",
+  "development_first_warning": "2009-09-17",
+  "development_lead_time_days": 14,
+  "development_selection_rationale": "Only excess kurtosis detected the development collapse. A threshold of 2.0 was selected because it detected the event while generating fewer warning events than 1.5. The 2-of-3 combination rule and the remaining individual diagnostics failed to detect the development collapse.",
+  "diagnostic_window": 63,
+  "factor_used_for_development": "MOM",
+  "reference_shift_days": 1,
+  "selected_diagnostics": [
+    "excess_kurtosis"
+  ],
+  "selected_rule_type": "single_diagnostic",
+  "status": "FROZEN",
+  "warning_direction": {
+    "excess_kurtosis": "positive",
+    "skewness": "negative",
+    "squared_return_acf": "positive"
+  },
+  "warning_reset_days": 5,
+  "warning_threshold": 2.0,
+  "warning_to_collapse_horizon_days": 126,
+  "zscore_reference_window": 252
+}
