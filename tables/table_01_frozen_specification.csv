@@ -1,0 +1,9 @@
+Component,Frozen specification
+Development factor,MOM
+Development collapse,2009-10-07
+Selected diagnostic,excess_kurtosis
+Diagnostic window,63 trading days
+Standardization history,252 prior observations
+Warning threshold,2.0
+Warning reset,5 trading days
+Warning horizon,126 trading days

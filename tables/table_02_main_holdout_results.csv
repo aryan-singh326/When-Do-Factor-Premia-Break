@@ -1,0 +1,7 @@
+Metric,Estimate,95% CI
+Holdout collapse events,86,—
+Detected events,42,—
+Recall,0.4883720930232558,0.384–0.593
+Warning-event precision,0.0783582089552238,0.056–0.101
+False-positive rate,0.9216417910447762,—
+Median lead time,66 trading days,46–91
